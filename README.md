@@ -1,6 +1,6 @@
 ### Olá, eu sou o Alex 👋
 
-- 👨‍💼 Atualmente trabalho na IBM
+- 👨‍💼 Atualmente trabalho na IBM (International Business Machines Corporation)
 - 💻 Desenvolvimento web
 - 📚 ReactJS, TypeScript and JavaScript
 
